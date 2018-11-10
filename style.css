@@ -56,6 +56,11 @@ header {
     border: 1px solid white;
 }
 
+#navBar{
+    margin: 10px auto;
+    padding: 0;
+}
+
 #back {
     width: 70%;
     margin: 0 auto;
